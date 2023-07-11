@@ -2,7 +2,7 @@
 
 ### Ảnh một số giao diện      
       
- <img src="images/login.jpg" >
+ <img src="images/login.jpg" > 
  <img src="images/signup.jpg" >
  <img src="images/verify.jpg" >
  <img src="images/forgetPass.jpg" >
